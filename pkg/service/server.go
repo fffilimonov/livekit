@@ -21,7 +21,7 @@ import (
 	"github.com/livekit/livekit-server/pkg/config"
 	"github.com/livekit/livekit-server/pkg/routing"
 	"github.com/livekit/livekit-server/version"
-	"github.com/livekit/protocol/auth"
+	"github.com/livekit/livekit-server/pkg/auth"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 )

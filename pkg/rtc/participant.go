@@ -24,7 +24,7 @@ import (
 	"github.com/livekit/livekit-server/pkg/sfu/connectionquality"
 	"github.com/livekit/livekit-server/pkg/telemetry"
 	"github.com/livekit/mediatransportutil/pkg/twcc"
-	"github.com/livekit/protocol/auth"
+	"github.com/livekit/livekit-server/pkg/auth"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/utils"

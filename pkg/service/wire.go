@@ -15,7 +15,7 @@ import (
 	"github.com/pkg/errors"
 	"gopkg.in/yaml.v3"
 
-	"github.com/livekit/protocol/auth"
+	"github.com/livekit/livekit-server/pkg/auth"
 	"github.com/livekit/protocol/egress"
 	"github.com/livekit/protocol/ingress"
 	"github.com/livekit/protocol/livekit"
