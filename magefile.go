@@ -5,15 +5,12 @@ package main
 
 import (
 	"context"
-	"errors"
 	"fmt"
 	"os"
 	"os/exec"
-	"strings"
 
 	"github.com/magefile/mage/mg"
 
-	"github.com/livekit/livekit-server/version"
 	"github.com/livekit/mageutil"
 )
 
